@@ -1,4 +1,9 @@
 exercism.exe
+
 LICENSE
+
 shell
-README.md
+.idea
+
+.exercism
+__pycache__
