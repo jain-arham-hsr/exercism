@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="755e0ffc-11cb-412e-b3b9-5456d985f3e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Arham Jain\Programming\Exercism\python\clock\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fDz1V7xEow9ptVRvYOURWvCvYT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in clock_test.py">
+    <configuration name="Unittests for clock_test.ClockTest.test_on_the_hour" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="clock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;clock_test.ClockTest.test_on_the_hour&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in clock_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="clock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/clock_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in clock_test.py" />
+        <item itemvalue="Python tests.Unittests for clock_test.ClockTest.test_on_the_hour" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="755e0ffc-11cb-412e-b3b9-5456d985f3e0" name="Default Changelist" comment="" />
+      <created>1595767246879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595767246879</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1344" height="252" key="GridCell.Tab.0.bottom" timestamp="1596003385026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="252" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596003385026" />
+    <state width="1344" height="252" key="GridCell.Tab.0.center" timestamp="1596003385026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="252" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596003385026" />
+    <state width="1344" height="252" key="GridCell.Tab.0.left" timestamp="1596003385025">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="252" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596003385025" />
+    <state width="1344" height="252" key="GridCell.Tab.0.right" timestamp="1596003385026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="252" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596003385026" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1596002270394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596002270394" />
+  </component>
+</project>
