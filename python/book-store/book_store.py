@@ -11,13 +11,14 @@ DISCOUNT = {
 PRICES = {i: (PRICE_PER_BOOK * (1 - DISCOUNT[i]) * i) for i in range(1, len(DISCOUNT) + 1)}
 
 def total(basket):
-    frequency = list(Counter(basket).values())
+    frequency = Counter(basket)
     groups = []
 
     # formation of groups
-    while len(frequency):
-        groups.append(len(frequency))
-        frequency = [book - 1 for book in frequency if (book - 1) != 0]
+    while frequency:
+        group = Counter([book for book in frequency.keys()])
+        groups.append(sum(group.values()))
+        frequency = frequency - group
 
     # replacing all (5, 3)s with (4, 4)s
     while 5 in groups and 3 in groups:
