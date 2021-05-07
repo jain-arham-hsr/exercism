@@ -18,7 +18,7 @@ def total(basket):
     while frequency:
         group = Counter([book for book in frequency.keys()])
         groups.append(sum(group.values()))
-        frequency = frequency - group
+        frequency -= group
 
     # replacing all (5, 3)s with (4, 4)s
     while 5 in groups and 3 in groups:
